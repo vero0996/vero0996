@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 🍂 welcome to vero's little corner ✿
+# 🍂 veronaz ✿
 
-*software, robotics & little things made with curiosity.*
+*software & little things made with curiosity.*
 
 <img src="https://raw.githubusercontent.com/vero0996/vero0996/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
 
