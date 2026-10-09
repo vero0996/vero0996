@@ -42,7 +42,7 @@ and a suspiciously long nap.
 
 ## 🎮 a tiny secret...
 
-Want to explore my cozy corner?
+Want to explore?
 
 **[Play a little game with me →](https://vero0996.github.io/#play)**
 
